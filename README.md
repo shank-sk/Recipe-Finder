@@ -37,9 +37,9 @@ Follow these simple steps to run the project on your local machine:
    - **Simply open the index.html file in your browser to start using the app!**
 
   ### 🎯 Future Enhancements
-  -🔹 Add meal categories (Vegetarian, Vegan, Keto, etc.)
-  -🔹 Implement user favorites & recipe ratings
-  -🔹 Improve UI with animations and better styling
+    -🔹 Add meal categories (Vegetarian, Vegan, Keto, etc.)
+    -🔹 Implement user favorites & recipe ratings
+    -🔹 Improve UI with animations and better styling
 
   ### 🤝 Contributing
   **Want to improve this project? Fork the repository and submit a pull request!**
